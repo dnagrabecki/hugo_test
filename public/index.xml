@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 May 2016 02:58:57 +0100</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>second</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/second/</link>
+      <pubDate>Thu, 19 May 2016 02:58:57 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/second/</guid>
+      <description>&lt;p&gt;Donec lacus lacus, sollicitudin eget consequat nec, pretium sed tortor. Suspendisse potenti. Suspendisse accumsan eros eget convallis fringilla. Morbi sollicitudin sapien quis tempor auctor. Etiam auctor fringilla consequat. Pellentesque mattis quam laoreet maximus ultrices. Integer tincidunt malesuada risus, vel porttitor erat dignissim sit amet. Nunc venenatis pharetra risus, lobortis malesuada risus efficitur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur justo elit, porttitor ut pulvinar sed, tempor et enim. Suspendisse at ligula in ex venenatis dictum. Nunc nibh erat, pulvinar vel sem at, vulputate condimentum velit. Proin vel commodo sem, ac cursus arcu.&lt;/p&gt;
+
+&lt;p&gt;Mauris imperdiet tortor sed ante porttitor, in pulvinar augue ultrices. Etiam aliquam fringilla orci pharetra pretium. Phasellus tempus velit ac elit venenatis pharetra. Integer velit dui, molestie eu mi in, aliquet tincidunt ex. Etiam ut ornare nisl, non rhoncus magna. Aenean tincidunt dui sit amet iaculis porta. Proin commodo pharetra pulvinar. Duis fringilla ante ut nisl rhoncus eleifend. Nullam vestibulum imperdiet viverra. Curabitur a placerat mauris, eget dapibus lectus. Fusce nibh urna, pulvinar sed diam eget, pulvinar auctor tellus. Praesent libero diam, molestie in turpis ut, malesuada efficitur ante.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://replace-this-with-your-hugo-site.com/post/first/</link>
+      <pubDate>Thu, 19 May 2016 02:57:01 +0100</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/post/first/</guid>
+      <description>&lt;p&gt;Donec lacus lacus, sollicitudin eget consequat nec, pretium sed tortor. Suspendisse potenti. Suspendisse accumsan eros eget convallis fringilla. Morbi sollicitudin sapien quis tempor auctor. Etiam auctor fringilla consequat. Pellentesque mattis quam laoreet maximus ultrices. Integer tincidunt malesuada risus, vel porttitor erat dignissim sit amet. Nunc venenatis pharetra risus, lobortis malesuada risus efficitur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur justo elit, porttitor ut pulvinar sed, tempor et enim. Suspendisse at ligula in ex venenatis dictum. Nunc nibh erat, pulvinar vel sem at, vulputate condimentum velit. Proin vel commodo sem, ac cursus arcu.&lt;/p&gt;
+
+&lt;p&gt;Mauris imperdiet tortor sed ante porttitor, in pulvinar augue ultrices. Etiam aliquam fringilla orci pharetra pretium. Phasellus tempus velit ac elit venenatis pharetra. Integer velit dui, molestie eu mi in, aliquet tincidunt ex. Etiam ut ornare nisl, non rhoncus magna. Aenean tincidunt dui sit amet iaculis porta. Proin commodo pharetra pulvinar. Duis fringilla ante ut nisl rhoncus eleifend. Nullam vestibulum imperdiet viverra. Curabitur a placerat mauris, eget dapibus lectus. Fusce nibh urna, pulvinar sed diam eget, pulvinar auctor tellus. Praesent libero diam, molestie in turpis ut, malesuada efficitur ante.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact us</title>
+      <link>http://replace-this-with-your-hugo-site.com/contact-us/</link>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/contact-us/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin mi nisi, ultrices non nibh ac, ullamcorper ornare justo. Morbi in leo euismod, finibus ante vitae, tincidunt diam. Curabitur consectetur ligula nec libero iaculis, vel ornare erat posuere. Phasellus finibus porta ornare. Sed eget metus enim. Phasellus a lorem vel lectus accumsan tristique a sed nisi. Vestibulum posuere pharetra tristique. Phasellus lacinia, est a rutrum interdum, sapien ipsum viverra nulla, quis faucibus magna ipsum et tortor. Aliquam pretium sem in urna condimentum sagittis. Fusce iaculis venenatis consequat. Donec scelerisque, ex id venenatis elementum, purus odio feugiat nisi, et accumsan neque risus nec diam. Ut vulputate arcu non quam consequat semper. Vivamus fermentum dui non elit interdum imperdiet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://replace-this-with-your-hugo-site.com/about-time/</link>
+      <pubDate>Sat, 27 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/about-time/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin mi nisi, ultrices non nibh ac, ullamcorper ornare justo. Morbi in leo euismod, finibus ante vitae, tincidunt diam. Curabitur consectetur ligula nec libero iaculis, vel ornare erat posuere. Phasellus finibus porta ornare. Sed eget metus enim. Phasellus a lorem vel lectus accumsan tristique a sed nisi. Vestibulum posuere pharetra tristique. Phasellus lacinia, est a rutrum interdum, sapien ipsum viverra nulla, quis faucibus magna ipsum et tortor. Aliquam pretium sem in urna condimentum sagittis. Fusce iaculis venenatis consequat. Donec scelerisque, ex id venenatis elementum, purus odio feugiat nisi, et accumsan neque risus nec diam. Ut vulputate arcu non quam consequat semper. Vivamus fermentum dui non elit interdum imperdiet.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
